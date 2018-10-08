@@ -1,0 +1,18 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+gunicorn = "*"
+flask = "*"
+numpy = "*"
+pandas = "*"
+sklearn = "*"
+scipy = "*"
+
+[requires]
+
+python_full_version = "3.6.6"
